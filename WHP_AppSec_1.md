@@ -111,4 +111,5 @@
 
 ## AppSec Activities - Intermediate
 
-- 
+- Developer Education and Advocacy Programs
+    1. 
